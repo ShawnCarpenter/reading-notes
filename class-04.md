@@ -14,3 +14,11 @@ Links can point to:
 ## Layout ##
 
 Layout is just arranging boxes. (When I say just arranging boxes, I mean it's all arranging boxes, not that it's simple.)
+
+Reading over this has made me appreciate the flex and grid features in modern css.
+
+# Javascript #
+
+Functions are black boxes you give input and that provide output.
+
+Objects are boxes that hold  properties. The properties can be data or functions.
