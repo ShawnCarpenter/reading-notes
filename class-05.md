@@ -1,4 +1,4 @@
-# Images #
+# Images
 Pictures add visual interes to the page. to insert an image you use the `<img>` tag.
 You specify the location of the image with the `src ` attribute. Be considerate of people who use screen readers and use the `alt` attribute to describe the images you use.
 The soource can be local or on another server.
